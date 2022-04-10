@@ -17,3 +17,6 @@ variação ".", adicionar todas que foram encontraas.
 
 ###git commit -m "" -> realiza o commit das alterações para ficarem prontas para subir para o remoto.
 
+###git push -> Encaminha o upload das alterações para o GitHub.
+
+
